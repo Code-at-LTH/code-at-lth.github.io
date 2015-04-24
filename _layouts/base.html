@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Code@LTH{% if page.title %} - {{ page.title }}{% endif %}</title>
+
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/syntax.css" rel="stylesheet">
+
+        <!-- Bootstrap mobile thingy http://getbootstrap.com/css/ -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- UTF-8 -->
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+
+        <!-- Facebook page plugin stuff -->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+                fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+
+        <nav class="navbar navbar-default">
+          <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">Code@LTH</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about/">About</a></li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">Item right</a></li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+
+        <div class="jumbotron" style="margin-top: -30px">
+            <div class="container">
+                <h1>Code@LTH</h1>
+                <p>A community at LTH dedicated to exchanging knowledge, working on open source software together and having fun.</p>
+            </div>
+        </div>
+
+        <div class=container>
+
+            <div class="col-md-9">
+                {{ content }}
+            </div>
+            
+            <div class="col-md-3">{% include sidebar.html %}</div>
+
+            <hr>
+
+            <div class=row>
+                <div class="col-md-6">
+                    There will be a footer here in the future
+                </div>
+
+                <div class=col-md-3>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="pull-right">
+                        <div class="fb-page" data-href="https://www.facebook.com/code-at-lth" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                            <div class="fb-xfbml-parse-ignore">
+                                <blockquote cite="https://www.facebook.com/code-at-lth">
+                                    <a href="https://www.facebook.com/code-at-lth">Code at LTH</a>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

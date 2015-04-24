@@ -1,0 +1,13 @@
+name: "Code@LTH"
+markdown: redcarpet
+permalink: "/blog/:year/:month/:day/:title/"
+timezone: "Europe/Stockholm"
+encoding: "utf-8"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
+
