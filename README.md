@@ -7,3 +7,8 @@ This site will likely live on [code.lth.se](http://code.lth.se) when it is matur
 
 ### Development
 If you want to help develop the site, clone it and start a simple HTTP server locally. This can be easily by being in the project directory and running `python3 -m http.server`.
+
+#### Current status of issues
+
+[![Stories in Ready](https://badge.waffle.io/Code-at-LTH/code-at-lth.github.io.png?label=ready&title=Ready)](https://waffle.io/Code-at-LTH/code-at-lth.github.io)
+[![Stories in Progress](https://badge.waffle.io/Code-at-LTH/code-at-lth.github.io.png?label=in progress&title=In Progress)](https://waffle.io/Code-at-LTH/code-at-lth.github.io)
