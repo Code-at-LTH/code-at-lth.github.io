@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Code-at-LTH/code-at-lth.github.io.png?label=ready&title=Ready)](https://waffle.io/Code-at-LTH/code-at-lth.github.io)
 # Code@LTH Website
 The official Code@LTH website.
 
