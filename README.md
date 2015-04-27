@@ -1,9 +1,9 @@
 # Code@LTH Website
 The official Code@LTH website.
 
-It currently lives at [code-at-lth.github.io/](http://code-at-lth.github.io/).
+It currently lives at [code-at-lth.github.io/](http://code-at-lth.github.io/). There is also a shortcut up at [lth.se/code](http://lth.se/code).
 
-This site will likely live on [code.lth.se](http://code.lth.se) when it is mature.
+This site might live on [code.lth.se](http://code.lth.se) or something similar when it is mature.
 
 ### Development
 If you want to help develop the site, download and install [Jekyll](jekyllrb.com) which this site uses for static page generation.
