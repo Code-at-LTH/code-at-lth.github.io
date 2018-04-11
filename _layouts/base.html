@@ -16,6 +16,18 @@
 
         <!-- UTF-8 -->
         <meta charset="utf-8">
+        <style>
+#div-with-bg
+{
+    padding: 10em 2em 2em 2em;
+    background: linear-gradient(#FFFFFF00, #FFFFFFAA, #FFFFFFEE),
+                url('/assets/images/2018/computer-in-sun.jpg');
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center 33%;
+    border-radius: 1em;
+}
+        </style>
     </head>
 
     <body>
@@ -43,9 +55,8 @@
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
         </nav>
-
-        <div class="jumbotron" style="margin-top: -30px">
-            <div class="container">
+        <div id="div-with-bg" class="jumbotron" style="margin-top: -30px">
+            <div class="container" >
                 <h1>Code@LTH</h1>
                 <p>A community at LTH dedicated to exchanging knowledge, working on open source software together and having fun.</p>
             </div>
