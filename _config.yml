@@ -2,6 +2,10 @@ name: "Code@LTH"
 permalink: "/blog/:year/:month/:day/:title/"
 timezone: "Europe/Stockholm"
 encoding: "utf-8"
+collections:
+  compprogcourse:
+    output: true
+    permalink: "/:collection/:title/"
 
 defaults:
   -
