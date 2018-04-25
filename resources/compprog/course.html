@@ -12,7 +12,7 @@ title: Competitive Programming Course
   </div>
 </div>
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-lg-6" style="margin-bottom:2%">
     <p>
       This course aims to help you train for upcoming programming competitions. Please don't feel the urge to not compete before finish this course, or before you solve all the problems linked. The best practice is to participate.
     </p>
@@ -20,30 +20,27 @@ title: Competitive Programming Course
 </div>
 <div class="row">
   <div class="col-md-6">
-
-    <p> This course focuses on a subset of competitions with the following restrictions:</p>
-
-    <ul>
-      <li>The output of your algorithm is either correct or not correct, there are no problems that you can solve partially.</li>
-      <li>Your code for a problem is submitted to a judge server that runs your code with a time limit on some hidder testcases.</li>
-      <li>You use a <a href="https://open.kattis.com/help">language supported by Kattis</a>, since the problems we will use are hosted at Kattis.</li>
-    </ul>
-  </div>
-  <div class="col-md-6">  
-    <p> Preliminaries </p>
-    <ul>
-      <li>Reading from stdin, printing to stdout. You can find information on how to do this in your prefered language on <a href="https://open.kattis.com/help">Kattis helppage</a> </li>
-      <li>Basic data structures like Queue, Set, Map, Heap. Take the course <a href="http://cs.lth.se/edaa01/">EDAA01</a>, or read about these data structures on <a href="https://en.wikipedia.org/wiki/List_of_data_structures">wikipedia</a>.</li>
-      <li>A Kattis-account, create one <a href="https://open.kattis.com/register">here</a>.</li>
-    </ul>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-6">
+    <h3>Topics</h3>
     <ul>
       {% for topic in site.compprogcourse %}
         <li><a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.title }}</a></li>
       {% endfor %}
+    </ul>
+  </div>
+  <div class="col-md-6" style="margin-top:2%">
+
+    <p> Focuses on competitions with the following restrictions:</p>
+
+    <ul>
+      <li>The output of your algorithm is either correct or not correct, there are no problems that you can solve partially.</li>
+      <li>Your code for a problem is submitted to a judge server that runs your code with a time limit on some hidden testcases.</li>
+      <li>You use a <a href="https://open.kattis.com/help">language supported by Kattis</a>, since the problems we will use are hosted at Kattis.</li>
+    </ul>
+    <p> Preliminaries: </p>
+    <ul>
+      <li>Reading from stdin, printing to stdout. You can find information on how to do this in your prefered language on <a href="https://open.kattis.com/help">Kattis helppage</a> </li>
+      <li>Basic data structures like Queue, Set, Map, Heap. Take the course <a href="http://cs.lth.se/edaa01/">EDAA01</a>, or read about these data structures on <a href="https://en.wikipedia.org/wiki/List_of_data_structures">wikipedia</a>.</li>
+      <li>A Kattis-account, create one <a href="https://open.kattis.com/register">here</a>.</li>
     </ul>
   </div>
 </div>
