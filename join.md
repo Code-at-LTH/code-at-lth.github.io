@@ -11,8 +11,9 @@ Membership is valid for one year, costs 20 SEK and requires Swish.
 
 To join and support Code@LTH you need to do the following:
 
-- Fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdiU498IZ-5IXz5sdsoqslavZzWMTP9SrYX1jBE9Thgvgff_Q/viewform) to request membership.
-- Swish 20 SEK to the swishnumber found in the form.
+- Go to [our site at Unga Forskares membership system](https://ebas.ungaforskare.se/signups/index/62).
+- Fill in the form.
+- Swish 20 kr to us, the number can be found at the form.
 - Optional: request to receive a Code@LTH sticker for your laptop.
 
 We will use this money to buy fika and prizes for our events.
