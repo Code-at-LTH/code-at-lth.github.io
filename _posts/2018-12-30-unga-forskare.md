@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unga Forskare and Annual Meeting"
-date:   2018-12-30
+date:   2018-12-30 01:00 0100
 ---
 
 We are happy to announce that we are now part of [Unga Forskare](https://ungaforskare.se/) (together with 40 other organizations for young people related to natural science, technology or mathematics).
