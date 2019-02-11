@@ -1,0 +1,90 @@
+# Members
+
+- name: Sofi Flinck
+  role: President
+  github: obakanue
+  mail: sofi.flinck@gmail.com
+  img: https://avatars0.githubusercontent.com/u/26341036?s=460&v=4
+  current: true
+
+- name: Måns Magnusson
+  role: Treasurer, Co-founder
+  github: exoji2e
+  website: exoji2e.github.io
+  mail: exoji2e@protonmail.com
+  img: https://avatars0.githubusercontent.com/u/2479779?s=460&v=4
+  current: true
+
+- name: Björn Magnusson
+  role: Vice President
+  github: BjornMagn
+  mail: bjorn.in.magnusson@gmail.com
+  img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
+  current: true
+
+- name: Karl-Oskar Rikås
+  role: Board member
+  github: funrep
+  website: funrep.io
+  mail: karloskarrikaas@gmail.com
+  img: https://avatars3.githubusercontent.com/u/2212965?s=460&v=4
+  current: true
+
+- name: Erik Amirell Eklöf
+  role: Board member
+  github: Eae02
+  mail: erik.amirell.eklof@gmail.com
+  img: https://avatars0.githubusercontent.com/u/23399946?s=400&v=4
+  current: true
+
+- name: Martin Jakobsson
+  role: Board member
+  github: Martomate
+  mail: martingitarr@gmail.com 
+  img: https://avatars1.githubusercontent.com/u/20427996?s=400&v=4
+  current: true
+
+- name: Jacob Karlsson
+  role: Board member, Co-founder
+  github: Powersource
+  website: jacob-karlsson.com
+  mail: jacob.karlsson95@gmail.com
+  img: https://avatars3.githubusercontent.com/u/1427063?s=460&v=4
+  current: true
+
+- name: Erik Bjäreholt
+  role: Board member, Co-founder
+  github: ErikBjare
+  website: erik.bjareholt.com
+  mail: erik@bjareho.lt
+  img: https://avatars1.githubusercontent.com/u/1405370?v=3&s=241
+  current: true
+
+
+- name: Kristian Berg
+  role: "President 2015-2017"
+  github: KristianBerg
+
+- name: Daniel Huber
+  role: "Board member 2018"
+  github: Daniel-Huber
+
+- name: Simon Persson
+  role: "Board member 2018"
+  github: perssonsimon1
+
+- name: Vilhelm Lundqvist
+  role: Co-founder
+  github: Velixo
+
+- name: Isak Lindhé
+  role: Co-founder
+  github: voidcase
+
+- name: Fatima Abou Alpha
+  role: Co-founder
+  github: Tingiie
+
+- name: Love Sjögren
+  role: Co-founder
+  github: Lovepove

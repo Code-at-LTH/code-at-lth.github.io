@@ -20,251 +20,65 @@ title: About
 
 <h2>Board members 2019</h2>
 <div class="row">
+    {% for member in site.data.members %} {% if member.current == true %}
+
     <div class="col-xs-4 col-md-3">
         <div class="thumbnail">
-            <img class="contact-image" src="https://avatars0.githubusercontent.com/u/26341036?s=460&v=4" alt="Sofi Flink">
+            {% if member.img %}
+            <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
+            {% endif %}
             <div class="caption">
-                <h4>Sofi Flink</h4>
-                <p>
-                    President
-                </p>
-                <small>
-                    Email: <a href="mailto:sofi.flinck@gmail.com">sofi.flinck@gmail.com</a>
-                    <br>
-                    GitHub: <a href="https://github.com/obakanue">@obakanue</a>
-                </small>
+                <h4>{{ member.name }}</h4>
+                <p> {{ member.role }}</p>
+                <p> <a href="https://github.com/{{ member.github }}" target="_blank"> @{{ member.github }} </a> </p>
+                <h2> 
+                <a href="mailto:{{ member.mail }}"><i class="fa fa-envelope-square"></i></a> 
+                <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github-square"></i></a>
+                {% if member.website %}
+                <a href="https://{{ member.website }}" target="_blank"><i class="fa fa-home"></i></a>
+                {% endif %}
+                </h2> 
             </div>
         </div>
     </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars3.githubusercontent.com/u/14334856?s=460&v=4" alt="Björn Magnusson">
-            <div class="caption">
-                <h4>Björn Magnusson</h4>
-                <p>
-                    Vice President
-                </p>
-                <small>
-                    Email: <a href="mailto:bjorn.in.magnusson@gmail.com">bjorn.in.magnusson@gmail.com</a>
-                    GitHub: <a href="https://github.com/BjornMagn">@BjornMagn</a>
-                </small>
-            </div>
-        </div>
-    </div>
+        {% assign mod = forloop.index | modulo:4 %}
+        {% if mod == 2 %} 
     <div class="clearfix visible-xs-block"></div>
     <div class="clearfix visible-sm-block"></div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars3.githubusercontent.com/u/2479779?v=3&s=241" alt="Måns Magnusson">
-            <div class="caption">
-                <h4>Måns Magnusson</h4>
-                <p>
-                    Treasurer, Co-founder
-                </p>
-                <small>
-                    Email: <a href="mailto:exoji2e@protonmail.com">exoji2e@protonmail.com</a>
-                    <br>
-                    Website: <a href="http://exoji2e.github.io">exoji2e.github..io</a>
-                    <br>
-                    GitHub: <a href="https://github.com/exoji2e">@exoji2e</a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars3.githubusercontent.com/u/2212965?s=460&v=4" alt="Karl-Oskar Rikås">
-            <div class="caption">
-                <h4>Karl-Oskar Rikås</h4>
-                <p>
-                    Board member
-                </p>
-                <small>
-                    Email: <a href="mailto:karloskarrikaas@gmail.com">karloskarrikaas@gmail.com</a>
-                    <br>
-                    Website: <a href="http://funrep.io/">funrep.io</a>
-                    <br>
-                    GitHub: <a href="https://github.com/funrep">@funrep</a>
-                </small>
-            </div>
-        </div>
-    </div>
+        {% endif %}
+        {% if mod == 0 %} 
     <div class="clearfix visible-xs-block"></div>
     <div class="clearfix visible-sm-block"></div>
     <div class="clearfix visible-md-block"></div>
     <div class="clearfix visible-lg-block"></div>
+        {% endif %}
 
-
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars0.githubusercontent.com/u/23399946?s=400&v=4" alt="Erik Amirell Eklöf">
-            <div class="caption">
-                <h4>Erik Amirell Eklöf</h4>
-                <p>
-                    Board member
-                </p>
-                <small>
-                    Email: <a href="mailto:erik.amirell.eklof@gmail.com">erik.amirell.eklof@gmail.com</a>
-                    <br>
-                    GitHub: <a href="https://github.com/Eae02">@Eae02</a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars1.githubusercontent.com/u/20427996?s=400&v=4" alt="Martin Jakobsson">
-            <div class="caption">
-                <h4>Martin Jakobsson</h4>
-                <p>
-                    Board member
-                </p>
-                <small>
-                    Email: <a href="mailto:martingitarr@gmail.com">martingitarr@gmail.com</a>
-                    <br>
-                    GitHub: <a href="https://github.com/Martomate">@Martomate</a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div class="clearfix visible-xs-block"></div>
-    <div class="clearfix visible-sm-block"></div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars3.githubusercontent.com/u/1427063?s=460&v=4" alt="Jacob Karlsson">
-            <div class="caption">
-                <h4>Jacob Karlsson</h4>
-                <p>
-                    Board member, Co-founder
-                </p>
-                <small>
-                    Email: <a href="mailto:jacob.karlsson95@gmail.com">jacob.karlsson95@gmail.com</a>
-                    <br>
-                    Website: <a href="http://jacob-karlsson.com/">jacob-karlsson.com</a>
-                    <br>
-                    GitHub: <a href="https://github.com/Powersource">@Powersource</a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <img class="contact-image" src="https://avatars1.githubusercontent.com/u/1405370?v=3&s=241" alt="Erik Bjäreholt">
-            <div class="caption">
-                <h4>Erik Bjäreholt</h4>
-                <p>
-                    Board member, Co-founder
-                </p>
-                <small>
-                    Email: <a href="mailto:erik@bjareho.lt">erik@bjareho.lt</a>
-                    <br>
-                    Website: <a href="http://erik.bjareholt.com">erik.bjareholt.com</a>
-                    <br>
-                    GitHub: <a href="https://github.com/ErikBjare">@ErikBjare</a>
-                </small>
-            </div>
-        </div>
-    </div>
-
+    {% endif %}{% endfor %}
 </div>
 <h2>Previous Board members</h2>
 <div class="row">
+    {% assign index = 1 %}
+    {% for member in site.data.members %} {% if member.current != true %}
     <div class="col-xs-4 col-md-3">
         <div class="thumbnail">
             <div class="caption">
-                <h4>Kristian Berg</h4>
-                <p>
-                    Co-founder
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/KristianBerg">@KristianBerg</a>
-                </small>
+                <h4>{{ member.name }}</h4>
+                <p> {{ member.role }}</p>
+                <p> <a href="https://github.com/{{ member.github }}" target="_blank"> @{{ member.github }} </a> </p>
             </div>
         </div>
     </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <div class="caption">
-                <h4>Daniel Huber</h4>
-                <p>
-                    Board member
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/Daniel-Huber">@Daniel-Huber</a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <div class="caption">
-                <h4>Simon Persson</h4>
-                <p>
-                    Board member
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/perssonsimon1">@perssonsimon1</a>
-                </small>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <div class="caption">
-                <h4>Vilhelm Lundqvist</h4>
-                <p>
-                    Co-founder
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/Velixo">@Velixo</a>
-                </small>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <div class="caption">
-                <h4>Isak Lindhé</h4>
-                <p>
-                    Co-founder
-
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/voidcase">@voidcase</a>
-                </small>
-            </div>
-        </div>
-    </div>
-
+    {% assign mod = index | modulo:4 %}
+        {% if mod == 2 %} 
     <div class="clearfix visible-xs-block"></div>
-
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <div class="caption">
-                <h4>Fatima Abou Alpha</h4>
-                <p>
-                    Co-founder
-
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/Tingiie">@Tingiie</a>
-                </small>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-xs-4 col-md-3">
-        <div class="thumbnail">
-            <div class="caption">
-                <h4>Love Sjögren</h4>
-                <p>
-                    Co-founder
-                </p>
-                <small>
-                    GitHub: <a href="https://github.com/Lovepove">@Lovepove</a>
-                </small>
-            </div>
-        </div>
-    </div>
+    <div class="clearfix visible-sm-block"></div>
+        {% endif %}
+        {% if mod == 0 %} 
+    <div class="clearfix visible-xs-block"></div>
+    <div class="clearfix visible-sm-block"></div>
+    <div class="clearfix visible-md-block"></div>
+    <div class="clearfix visible-lg-block"></div>
+        {% endif %}
+    {% assign index = index | plus:1 %}
+    {% endif %}{% endfor %}
 </div>
