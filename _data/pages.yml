@@ -1,0 +1,15 @@
+- name: About
+  url: /about
+  id: about
+
+- name: Resources
+  url: /resources
+  id: resources
+
+- name: Talks
+  url: /talks
+  id: talks
+
+- name: Join
+  url: /join
+  id: join

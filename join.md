@@ -2,6 +2,7 @@
 layout: panel-with-sidebar
 title: Join
 permalink: /join/
+id: join
 ---
 
 # Join

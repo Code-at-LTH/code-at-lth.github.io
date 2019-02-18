@@ -2,6 +2,7 @@ name: "Code@LTH"
 permalink: "/blog/:year/:month/:day/:title/"
 timezone: "Europe/Stockholm"
 encoding: "utf-8"
+logo: /assets/images/code-logo-transparent.png
 collections:
   compprogcourse:
     output: true
