@@ -11,7 +11,7 @@ title: About
 <p>
     We are always looking for people who are interested in participating and improving our organisation.
     If you have ideas about more cool things to organize with us, or you just want to hang out, feel free to
-    contact us by sending one of us an email (or message us on facebook). That way we can invite you to our <a href="https://codeatlth.slack.com">slack</a> and our weekly meetings.
+    contact us by sending one of us an email (or message us on facebook). That way we can invite you to our weekly meetings, that usually are at lunchtime on Tuesdays.
 </p>
 <p>
     If you are interested more in detail about how our organisation works, have a look at our documents in our <a href="https://github.com/Code-at-LTH/meta">meta repository</a>. 
@@ -22,7 +22,7 @@ title: About
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
 
-    <div class="col-xs-5 col-sm-5 col-md-4 col-lg-3">
+    <div class="col-xs-6 col-sm-4 col-md-4 col-lg-3">
         <div class="thumbnail">
             {% if member.img %}
             <img class="contact-image" src="{{ member.img }}" alt="{{ member.name }}">
@@ -46,9 +46,9 @@ title: About
     {% assign mod2 = forloop.index | modulo:2 %}
     {% if mod2 == 0 %}
     <div class="clearfix visible-xs-block"></div>
-    <div class="clearfix visible-sm-block"></div>
     {% endif %}
     {% if mod3 == 0 %}
+    <div class="clearfix visible-sm-block"></div>
     <div class="clearfix visible-md-block"></div>
     {% endif %}
     {% if mod4 == 0 %}
@@ -61,7 +61,7 @@ title: About
 <div class="row">
     {% assign index = 1 %}
     {% for member in site.data.members %} {% if member.current != true %}
-    <div class="col-xs-5 col-sm-5 col-md-4 col-lg-3">
+    <div class="col-xs-6 col-sm-4 col-md-4 col-lg-3">
         <div class="thumbnail">
             <div class="caption">
                 <h4>{{ member.name }}</h4>
@@ -75,9 +75,9 @@ title: About
     {% assign mod2 = index | modulo:2 %}
     {% if mod2 == 0 %}
     <div class="clearfix visible-xs-block"></div>
-    <div class="clearfix visible-sm-block"></div>
     {% endif %}
     {% if mod3 == 0 %}
+    <div class="clearfix visible-sm-block"></div>
     <div class="clearfix visible-md-block"></div>
     {% endif %}
     {% if mod4 == 0 %}
