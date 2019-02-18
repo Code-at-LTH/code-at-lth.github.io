@@ -1,0 +1,9 @@
+#div-with-bg {
+    padding: 10em 2em 2em 2em;
+    background: linear-gradient(#FFFFFF00, #FFFFFFAA, #FFFFFFEE),
+                url('/assets/images/2018/computer-in-sun.jpg');
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center 33%;
+    border-radius: 1em;
+}
