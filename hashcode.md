@@ -4,7 +4,7 @@ title: Hash Code
 id: hashcode
 ---
 
-Code@LTH has organized a hub for the team programming competition Google Hash Code since 2016.
+Code@LTH has organized a hub for the annual team programming competition Google Hash Code since 2016.
 
 ## 2019 info-summary
 - Date-time: 2019-02-28 17:30 UTC+1.

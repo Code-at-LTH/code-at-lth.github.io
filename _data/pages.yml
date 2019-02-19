@@ -13,3 +13,6 @@
 - name: Join
   url: /join
   id: join
+- name: Hash Code
+  url: /hashcode
+  id: hashcode
