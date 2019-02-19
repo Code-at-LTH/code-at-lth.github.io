@@ -1,7 +1,6 @@
 ---
 layout: panel-with-sidebar
 title: Hash Code
-permalink: /hashcode/
 id: hashcode
 ---
 
