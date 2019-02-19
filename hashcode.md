@@ -1,0 +1,16 @@
+---
+layout: panel-with-sidebar
+title: Hash Code
+permalink: /hashcode/
+id: hashcode
+---
+
+Code@LTH has organized a hub for the team programming competition Google Hash Code since 2016.
+
+## 2019 info-summary
+- Date-time: 2019-02-28 17:30 UTC+1.
+- Deadline to register: 2019-02-25.
+- Location: E:1406 (first floor to the north in the E building).
+- [Sign-Up link](https://codingcompetitions.withgoogle.com/hashcode).
+- [Blog post](/blog/2019/02/19/hashcode) with more info.
+- [Facebook event](https://www.facebook.com/events/1004230436433297).
