@@ -6,6 +6,8 @@ id: hashcode
 
 Code@LTH has organized a hub for the annual team programming competition Google Hash Code since 2016.
 
+### [Hashcode-jugde](https://hashcodejudge.withgoogle.com/#/home)
+
 ## 2019 info-summary
 - Date-time: 2019-02-28 17:30 UTC+1.
 - Deadline to register: 2019-02-25.
