@@ -1,0 +1,30 @@
+---
+layout: panel
+title: Talks
+id: talks
+---
+
+## Talks
+
+When Code@LTH started, one of our intents was give students a platform where they could speak and listen to each other in a short lecture-like format. 
+
+Talks can be anything from 5 minutes to an hour. It can have whatever format you want: slides, code along, or simply talking without any tool.
+
+The hardest part is to find speakers, we try to actively find speakers but we hope that people will see the value in it and try to contribute themselves by holding a talk to give back to the community. It is great fun and a very worthwhile learning experience. If you are considering holding a talk, [contact us](/about)!
+
+
+### Why hold a talk?
+
+It provides incredible value for the community and serves as an excellent learning experience for you. Whether you want share your interest, talk about an underused technology, or simply want to give back to the community. We will help you make your talk as good as possible!
+
+
+### Who can be a speaker?
+
+Anyone can be a speaker! Whether you are a student or professor, new to the world of programming or have extensive working/academic experience your viewpoint of the field (and the teaching of it) is unique and has value. 
+
+You can talk about whatever you want, as long as it is related to computers/programming (if it isn't: you should still contact us, maybe we can help).
+
+
+### How large will the audience be?
+
+As large as you want it to, but in the near future we aim for 50-100 people per event (if that sounds too intimidating: talk to us and we'll figure something out). If you want an even larger audience (great!) we might be able to arrange a recording of it and upload it to our [YouTube channel](https://www.youtube.com/channel/UCaGyPyGYtAs-yaIcKNjy8gA).

@@ -4,22 +4,19 @@ title: About
 id: about
 ---
 
-<h1>About</h1>
-<p>
-    {% include about.html %}
-</p>
+# About
 
-<p>
-    We are always looking for people who are interested in participating and improving our organisation.
-    If you have ideas about more cool things to organize with us, or you just want to hang out, feel free to
-    contact us by sending one of us an email (or message us on facebook). That way we can invite you to our weekly meetings, that usually are at lunchtime on Tuesdays.
-</p>
-<p>
-    If you are interested more in detail about how our organisation works, have a look at our documents in our <a href="https://github.com/Code-at-LTH/meta">meta repository</a>. 
-    There you can find our <a href="https://en.wikipedia.org/wiki/By-law">by-law</a>, operational plan, etc. 
-</p>
+{% include about.html %}
 
-<h2>Board members 2019</h2>
+We are always looking for people who are interested in participating and improving our organisation.
+If you have ideas about more cool things to organize with us, or you just want to hang out, feel free to
+contact us by sending one of us an email (or message us on facebook). That way we can invite you to our weekly meetings, that usually are at lunchtime on Tuesdays.
+
+
+If you are interested more in detail about how our organisation works, have a look at our documents in our [meta repository](https://github.com/Code-at-LTH/meta).
+There you can find our [by-law](https://en.wikipedia.org/wiki/By-law), operational plan, etc. 
+
+## Board members 2019
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
 
@@ -58,7 +55,8 @@ id: about
 
     {% endif %}{% endfor %}
 </div>
-<h2>Previous Board members</h2>
+
+## Previous Board members
 <div class="row">
     {% assign index = 1 %}
     {% for member in site.data.members %} {% if member.current != true %}
