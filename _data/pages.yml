@@ -13,6 +13,11 @@
 - name: Join
   url: /join
   id: join
+
 - name: Hash Code
   url: /hashcode
   id: hashcode
+
+- name: Ludum Dare
+  url: /ludumdare
+  id: ludumdare
