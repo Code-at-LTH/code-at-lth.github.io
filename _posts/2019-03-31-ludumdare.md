@@ -12,7 +12,7 @@ In the weeks before the competition we will have a few events to make you ready 
 
 ### April 11: [Intro to the Godot game engine + workshop](https://www.facebook.com/events/315211862497848/)
 
-Making computer games has never been easier! With the open sorce, multi platform game engine Godot you can make a game in hours that would normally take days, weeks or even months!
+Making computer games has never been easier! With the open source, multi platform game engine Godot you can make a game in hours that would normally take days, weeks or even months!
 
 The game engine is lightweight, yet powerful. It has a rich feature set and is easy to use. Have you always wanted to make a game? This is the perfect opportunity to make that dream come true!
 
