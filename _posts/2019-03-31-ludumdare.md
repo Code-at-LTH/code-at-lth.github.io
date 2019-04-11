@@ -16,11 +16,13 @@ Making computer games has never been easier! With the open source, multi platfor
 
 The game engine is lightweight, yet powerful. It has a rich feature set and is easy to use. Have you always wanted to make a game? This is the perfect opportunity to make that dream come true!
 
-We will first have a brief introduction to the game engine, and then move to another room to try it out. We recommend you to bring your own computer.
+We will first have a brief introduction to the game engine, and then proceed to try it out. We recommend you to bring your own computer.
 
 The game engine can be found [here](https://godotengine.org/), along with a lot of useful resources, like documentation and examples.
 
 We can strongly recommend [this tutorial](https://www.youtube.com/watch?v=wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd&index=1), in which a simple platformer is made in only 7 episodes.
+
+**Time and location**: 17-20 in E:2116, E-huset.
 
 ### April 25: [How to Ludum Dare](https://www.facebook.com/events/428336241042798/)
 
