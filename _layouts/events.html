@@ -1,0 +1,12 @@
+---
+layout: base
+---
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <h1>{{page.title}}</h1>
+        <h4>{{page.date | date_to_string}} - {{page.place}}</h4>
+        <h4>{{page.timerange}}</h4>
+        {{ content }}
+    </div>
+</div>

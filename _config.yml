@@ -2,11 +2,16 @@ name: "Code@LTH"
 permalink: "/blog/:year/:month/:day/:title/"
 timezone: "Europe/Stockholm"
 encoding: "utf-8"
+future: true
 logo: /assets/images/code-logo-transparent.png
 collections:
-  compprogcourse:
-    output: true
-    permalink: "/:collection/:title/"
+    compprogcourse:
+        output: true
+        permalink: "/:collection/:title/"
+    events:
+        output: true
+        future: true
+        permalink: "/:collection/:year-:month-:day-:title/"
 
 defaults:
   -
