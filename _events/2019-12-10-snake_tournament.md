@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: panel
 title: Snake tournament
 timerange: "17:00 - 20:00"
 place: "E:1406"
