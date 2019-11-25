@@ -1,4 +1,5 @@
 name: "Code@LTH"
+title: "Code@LTH"
 permalink: "/blog/:year/:month/:day/:title/"
 timezone: "Europe/Stockholm"
 encoding: "utf-8"
