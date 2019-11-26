@@ -32,6 +32,8 @@ Del 3: 18:30 är det omröstning om vilket snakespel som verkar roligast, och se
 
 **Det kommer bjudas på en ypperlig julfika!**
 
+Tryck gärna going på [facebook](https://www.facebook.com/events/782960302117166/).
+
 #### ---
 
 The elementary programming course (pgk) for D1 and W3 just had a group exercise programming a multiplayer snake-game. At our event we will host a tournament with the snake games which have been developed by the lab groups in the course!
