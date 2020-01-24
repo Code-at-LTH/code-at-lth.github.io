@@ -1,19 +1,10 @@
 ---
-layout: panel
+layout: events
 title: Snake tournament
 timerange: "17:00 - 20:00"
 place: "E:1406"
 img: "/assets/images/2019/snake_event_banner.jpg"
 ---
-<div id="flex-container">
-<img id="thumbnail-img" src="{{page.img}}" />
-<div  style="display:block;text-align:left">
-<h1 class="event-title">{{page.title}}</h1>
-<h5>{{page.date | date_to_string}} - {{page.place}}</h5>
-<h5>{{page.timerange}}</h5>
-</div>
-</div>
-<div style="clear:both;"></div>
 
 <br>
 _find information in English below_

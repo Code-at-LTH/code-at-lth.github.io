@@ -3,10 +3,22 @@ layout: base
 ---
 
 <div class="panel panel-default">
-    <div class="panel-body">
-        <h1>{{page.title}}</h1>
-        <h4>{{page.date | date_to_string}} - {{page.place}}</h4>
-        <h4>{{page.timerange}}</h4>
-        {{ content }}
-    </div>
+  <div class="panel-body">
+    {% if page.img %}
+      <div id="flex-container">
+      <img id="thumbnail-img" src="{{page.img}}" />
+      <div  style="display:block;text-align:left">
+      <h1 class="event-title">{{page.title}}</h1>
+      <h5>{{page.date | date_to_string}} - {{page.place}}</h5>
+      <h5>{{page.timerange}}</h5>
+      </div>
+      </div>
+      <div style="clear:both;"></div>
+    {% else %}
+      <h1>{{page.title}}</h1>
+      <h4>{{page.date | date_to_string}} - {{page.place}}</h4>
+      <h4>{{page.timerange}}</h4>
+    {% endif %}
+    {{ content }}
+  </div>
 </div>
