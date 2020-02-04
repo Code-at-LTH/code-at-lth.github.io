@@ -21,3 +21,5 @@ defaults:
     values:
       layout: "base"
 
+plugins:
+    - jekyll-redirect-from

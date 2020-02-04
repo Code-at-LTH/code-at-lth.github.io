@@ -13,9 +13,16 @@ Welcome to the homepage of Code@LTH!
 You can read more about Code@LTH on our [About page](/about).
 
 
-## Events
+## [Events](/events)
 
-You can find all our events on [Facebook](https://www.facebook.com/CodeAtLTH/events).
+
+{% assign events = site.events | sort: "date" | reverse | slice: 0, 3  %}
+{% for e in events  %}
+### [{{e.title}}]({{e.redirect | default: e.url}}) 
+##### {{e.date | date_to_string}}
+{% endfor %}
+
+[All events](/events)
 
 
 ## Blog Posts
