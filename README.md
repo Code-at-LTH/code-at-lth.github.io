@@ -18,9 +18,10 @@ If you want to help develop the site, download and install [Jekyll](jekyllrb.com
     1. For macOS: 
         1. Install homebrew
         1. `brew install ruby`
- 1. `sudo gem install jekyll` 
+ 1. `gem install bundle` 
  1. Clone this repository
  1. `cd` into the directory
+ 1. `bundle install`
  1. Run `make dev`
  1. Open up [localhost:4000](http://localhost:4000/) in your webbrowser.
 

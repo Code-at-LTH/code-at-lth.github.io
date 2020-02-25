@@ -1,5 +1,5 @@
 build:
-	jekyll build
+	bundle exec jekyll build
 
 dev:
-	jekyll serve --watch
+	bundle exec jekyll serve
