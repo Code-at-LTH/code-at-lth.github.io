@@ -1,10 +1,11 @@
 # Members
 
-- name: Sofi Flinck
-  role: President
-  github: obakanue
-  mail: sofi.flinck@gmail.com
-  img: https://avatars0.githubusercontent.com/u/26341036?s=460&v=4
+- name: Martin Jakobsson
+  role: "President 2020"
+  github: Martomate
+  mail: martingitarr@gmail.com 
+  website: www.martomate.com/
+  img: https://avatars1.githubusercontent.com/u/20427996?s=400&v=4
   current: true
 
 - name: Måns Magnusson
@@ -15,8 +16,15 @@
   img: https://avatars0.githubusercontent.com/u/2479779?s=460&v=4
   current: true
 
+- name: Erik Amirell Eklöf
+  role: Board member
+  github: Eae02
+  mail: erik.amirell.eklof@gmail.com
+  img: https://avatars0.githubusercontent.com/u/23399946?s=400&v=4
+  current: true
+
 - name: Björn Magnusson
-  role: Vice President
+  role: Board member
   github: BjornMagn
   mail: bjorn.in.magnusson@gmail.com
   img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
@@ -30,36 +38,37 @@
   img: https://avatars3.githubusercontent.com/u/2212965?s=460&v=4
   current: true
 
-- name: Erik Amirell Eklöf
-  role: Board member
-  github: Eae02
-  mail: erik.amirell.eklof@gmail.com
-  img: https://avatars0.githubusercontent.com/u/23399946?s=400&v=4
+- name: Sofi Flinck
+  role: "Board member, President 2019"
+  github: obakanue
+  mail: sofi.flinck@gmail.com
+  img: https://avatars0.githubusercontent.com/u/26341036?s=460&v=4
   current: true
 
-- name: Martin Jakobsson
+- name: Joel Bäcker
   role: Board member
-  github: Martomate
-  mail: martingitarr@gmail.com 
-  website: www.martomate.com/
-  img: https://avatars1.githubusercontent.com/u/20427996?s=400&v=4
+  github: GitThisJoel
+  current: true
+
+- name: Linn Rydberg
+  role: Deputy board member
   current: true
 
 - name: Jacob Karlsson
-  role: Board member, Co-founder
+  role: "Co-founder, President 2018, Board member 2019"
   github: Powersource
   website: jacob-karlsson.com
   mail: jacob.karlsson95@gmail.com
   img: https://avatars3.githubusercontent.com/u/1427063?s=460&v=4
-  current: true
+  current: false
 
 - name: Erik Bjäreholt
-  role: Board member, Co-founder
+  role: "Co-founder, Board member 2015-2019"
   github: ErikBjare
   website: erik.bjareholt.com
   mail: erik@bjareho.lt
   img: https://avatars1.githubusercontent.com/u/1405370?v=3&s=241
-  current: true
+  current: false
 
 
 - name: Kristian Berg
