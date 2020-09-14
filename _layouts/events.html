@@ -4,6 +4,9 @@ layout: base
 
 <div class="panel panel-default">
   <div class="panel-body">
+    {% if page.aboveimg %}
+    <img width="100%" src="{{page.aboveimg}}" />
+    {% endif %}
     {% if page.img %}
       <div id="flex-container">
       <img id="thumbnail-img" src="{{page.img}}" />
