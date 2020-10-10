@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<div class="panel panel-default">
+  <div class="panel-body">
+    {% if page.aboveimg %}
+    <img width="100%" src="{{page.aboveimg}}" />
+    {% endif %}
+    {% if page.img %}
+      <div id="flex-container">
+      <img id="thumbnail-img" src="{{page.img}}" />
+      <div  style="display:block;text-align:left">
+      <h2 >{{page.title}}</h2>
+      <h5>{{page.date | date_to_string}} - {{page.place}}</h5>
+      <h5>{{page.timerange}}</h5>
+      </div>
+      </div>
+      <div style="clear:both;"></div>
+    {% else %}
+      <h2>{{page.title}}</h2>
+      <h4>{{page.date | date_to_string}} - {{page.place}}</h4>
+      <h4>{{page.timerange}}</h4>
+    {% endif %}
+    {{ content }}
+  </div>
+</div>
+
