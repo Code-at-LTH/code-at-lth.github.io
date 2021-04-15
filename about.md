@@ -16,7 +16,7 @@ contact us by sending one of us an email (or message us on facebook). That way w
 If you are interested more in detail about how our organisation works, have a look at our documents in our [meta repository](https://github.com/Code-at-LTH/meta).
 There you can find our [by-law](https://en.wikipedia.org/wiki/By-law), operational plan, etc. 
 
-## Board members 2020
+## Board members 2021
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
 
@@ -71,7 +71,9 @@ There you can find our [by-law](https://en.wikipedia.org/wiki/By-law), operation
             <div class="caption">
                 <h4>{{ member.name }}</h4>
                 <p> {{ member.role }}</p>
+                {% if member.github %}
                 <p> <a href="https://github.com/{{ member.github }}" target="_blank"> @{{ member.github }} </a> </p>
+                {% endif %}
             </div>
         </div>
     </div>
