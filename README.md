@@ -18,7 +18,7 @@ If you want to help develop the site, download and install [Jekyll](jekyllrb.com
     1. For macOS: 
         1. Install homebrew
         1. `brew install ruby`
- 1. `gem install bundle` 
+ 1. `gem install jekyll webrick jekyll-redirect-from` 
  1. Clone this repository
  1. `cd` into the directory
  1. `bundle install`
