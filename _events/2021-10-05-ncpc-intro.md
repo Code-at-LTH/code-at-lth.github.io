@@ -1,7 +1,7 @@
 ---
 layout: event_small_title
 title: "Intro to NCPC 2021"
-place: "E:2106"
+place: "E:1406"
 timerange: "17:15 - 20:00"
 ---
 
