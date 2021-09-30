@@ -5,7 +5,7 @@ place: "E:2106"
 timerange: "17:15 - 20:00"
 ---
 
-The Nordic Collegiate Programming Contest ([NCPC](https://nordic.icpc.io/ncpc2021/)) will take place the 9th of October. It is basically the Nordic championships in competitve programming for university teams.
+The Nordic Collegiate Programming Contest ([NCPC](https://nordic.icpc.io/ncpc2021/)) will take place the 9th of October. It is basically the Nordic championships in competitive programming for university teams.
 
 To prepare, we will host a beginner friendly introduction lecture followed by a practice competition the 5th of October.
 
