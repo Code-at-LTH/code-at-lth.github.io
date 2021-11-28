@@ -5,6 +5,8 @@ place: "E:1406"
 timerange: "17:15 - 18:30 UTC+1"
 ---
 
+*Note: This event has been rescheduled to the 7th of December instead of the 30th of November!* 
+
 The [rust programming language](https://www.rust-lang.org/) seeks to solve several of the problems that have plagued earlier languages for systems development.
 
 Rust has started to become a [very popular choice](https://www.rust-lang.org/production/users) for performance critical projects. It is used inside the Firefox browser, at Dropbox, at ByteDance, and is also being [considered to be used inside the Linux kernel](https://arstechnica.com/gadgets/2021/03/linus-torvalds-weighs-in-on-rust-language-in-the-linux-kernel/) alongside C.
