@@ -1,15 +1,23 @@
 # Members
 
-- name: Martin Jakobsson
-  role: President 2020-2021
-  github: Martomate
-  mail: martingitarr@gmail.com 
-  website: martomate.com
-  img: https://avatars1.githubusercontent.com/u/20427996?s=400&v=4
+- name: Julius Thunström
+  role: President 2022
+  github: aiviaghost
+  mail: smurfplatta@gmail.com
+  img: https://avatars.githubusercontent.com/u/48349394?v=4
   current: true
 
+- name: Christoffer Fjällborg Rinaldo
+  role: Treasurer 2022
+  github: ChrisTheDevel
+  website: christhedevel.xyz
+  mail: christhedevel@gmail.com
+  img: https://avatars.githubusercontent.com/u/76404374?v=4
+  current: true
+
+
 - name: Måns Magnusson
-  role: Treasurer, Co-founder
+  role: Board member, Treasurer 2017-2021, Co-founder
   github: exoji2e
   website: exoji2e.github.io
   mail: exoji2e@protonmail.com
@@ -23,37 +31,46 @@
   img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
   current: true
 
-- name: Christoffer Fjällborg Rinaldo
-  role: Board member
-  github: ChrisTheDevel
-  website: christhedevel.xyz
-  mail: christhedevel@gmail.com
-  img: https://avatars.githubusercontent.com/u/76404374?v=4
-  current: true
-
-- name: Julius Thunström
-  role: Board member
-  current: true
-
-- name: Lucas Boberg
-  role: Board member
-  current: true
-
-- name: Joel Bäcker
-  role: Board member
-  github: GitThisJoel
-  current: true
-
-- name: Gabriel Sjögren
-  role: Board member
-  current: true
-
 - name: Erik Amirell Eklöf
-  role: Deputy board member, Board member 2019-2020
+  role: Board member 2019-2022
   github: Eae02
   mail: erik.amirell.eklof@gmail.com
   img: https://avatars0.githubusercontent.com/u/23399946?s=400&v=4
   current: true
+
+- name: Benjamin Kugelberg
+  role: Board member
+  current: true
+
+- name: Gustav Nilsson Gisleskog
+  role: Board member
+  current: true
+
+
+- name: Joel Bäcker
+  role: Board member 2021-2022
+  github: GitThisJoel
+  current: true
+
+- name: Jonathan Cederlund
+  role: Deputy board member
+  current: true
+
+- name: Lucas Boberg
+  role: Board member 2021
+  current: false
+
+- name: Gabriel Sjögren
+  role: Board member 2021
+  current: false
+
+- name: Martin Jakobsson
+  role: President 2020-2021
+  github: Martomate
+  mail: martingitarr@gmail.com 
+  website: martomate.com
+  img: https://avatars1.githubusercontent.com/u/20427996?s=400&v=4
+  current: false
 
 - name: Karl-Oskar Rikås
   role: Board member 2018-2020
