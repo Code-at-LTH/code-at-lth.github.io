@@ -1,0 +1,79 @@
+# current categories: 
+# Dijkstra, Probability, BFS. Geometry, String hashing, 
+# Network flow, Segment trees, Dynamic programming, 
+# Searching, Interactive problems, Variety, NCPC
+
+- category: Dijkstra
+  links: [
+    https://open.kattis.com/contests/q5w4mr/problems
+  ]
+  
+- category: Probability
+  links: [
+    https://open.kattis.com/contests/dph9n8/problems
+  ]
+
+- category: BFS
+  links: [
+    https://open.kattis.com/contests/ezq4xe/problems
+  ]
+
+- category: Geometry
+  links: [
+    https://open.kattis.com/contests/gzdnab/problems
+  ]
+
+- category: String hashing
+  links: [
+    https://open.kattis.com/contests/ao629w/problems
+  ]
+
+- category: Network flow
+  links: [
+    https://open.kattis.com/contests/yyy5cb/problems
+  ]
+
+- category: Segment trees
+  links: [
+    https://open.kattis.com/contests/gay94k/problems
+  ]
+
+- category: Dynamic programming
+  links: [
+    https://open.kattis.com/contests/wvn2dn/problems
+  ]
+
+- category: Searching
+  links: [
+    https://open.kattis.com/contests/vu382t/problems
+  ]
+
+- category: Interactive problems
+  links: [
+    https://open.kattis.com/contests/rercsx/problems
+  ]
+
+- category: NCPC
+  links: [
+    https://open.kattis.com/contests/seutao/problems, 
+    https://open.kattis.com/contests/yjfiag/problems
+  ]
+
+- category: Variety
+  links: [
+    https://open.kattis.com/contests/pvfc9x/problems, 
+    https://open.kattis.com/contests/aq2iwc/problems, 
+    https://open.kattis.com/contests/pvfm44/problems, 
+    https://open.kattis.com/contests/bywt92/problems, 
+    https://open.kattis.com/contests/bjn3iq/problems,  
+    https://open.kattis.com/contests/tv7dur/problems, 
+    https://open.kattis.com/contests/gvnwpy/problems, 
+    https://open.kattis.com/contests/nuj5hf/problems, 
+    https://open.kattis.com/contests/z9d96w/problems, 
+    https://open.kattis.com/contests/esbxev/problems, 
+    https://open.kattis.com/contests/ggp7wr/problems, 
+    https://open.kattis.com/contests/gfcpf6/problems, 
+    https://open.kattis.com/contests/i2yhpu/problems, 
+    https://open.kattis.com/contests/t24oan/problems, 
+    https://open.kattis.com/contests/qp8fwm/problems
+  ]
