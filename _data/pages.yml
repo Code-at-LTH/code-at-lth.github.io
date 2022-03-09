@@ -17,3 +17,7 @@
 - name: Events
   url: /events
   id: events
+
+- name: Practice contests
+  url: /practice_contests
+  id: practice_contests
