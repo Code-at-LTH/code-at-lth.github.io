@@ -1,79 +1,149 @@
-# current categories: 
-# Dijkstra, Probability, BFS. Geometry, String hashing, 
-# Network flow, Segment trees, Dynamic programming, 
-# Searching, Interactive problems, Variety, NCPC
+- name: CodeJam 2021 practice
+  date: "2022-03-29"
+  link: https://codingcompetitions.withgoogle.com/codejam/archive/2021
 
-- category: Dijkstra
-  links: [
-    https://open.kattis.com/contests/q5w4mr/problems
-  ]
+- name: Bitmask 2^N DP
+  date: "2022-03-23"
+  link: https://open.kattis.com/contests/qv9h29/standings
+
+- name: PicoCTF 2022
+  date: "2022-03-16"
+  link: https://play.picoctf.org
+
+- name: FFT
+  date: "2022-03-09"
+  link: https://open.kattis.com/contests/z63sfe/standings
+
+- name: Dijkstra
+  date: "2022-03-02"
+  link: https://open.kattis.com/contests/q5w4mr/problems
   
-- category: Probability
-  links: [
+- name: Probability Theory
+  date: "2022-02-23"
+  link:
     https://open.kattis.com/contests/dph9n8/problems
-  ]
 
-- category: BFS
-  links: [
+- name: BFS
+  date: "2022-02-16"
+  link:
     https://open.kattis.com/contests/ezq4xe/problems
-  ]
 
-- category: Geometry
-  links: [
+- name: KTH Challenge 2016 remake
+  date: "2022-02-09"
+  link:
+    https://open.kattis.com/contests/pvfc9x/problems
+
+- name: Geometry
+  date: "2022-01-26"
+  link: 
     https://open.kattis.com/contests/gzdnab/problems
-  ]
 
-- category: String hashing
-  links: [
+- name: String hashing
+  date: "2022-01-19"
+  link:
     https://open.kattis.com/contests/ao629w/problems
-  ]
 
-- category: Network flow
-  links: [
-    https://open.kattis.com/contests/yyy5cb/problems
-  ]
-
-- category: Segment trees
-  links: [
-    https://open.kattis.com/contests/gay94k/problems
-  ]
-
-- category: Dynamic programming
-  links: [
-    https://open.kattis.com/contests/wvn2dn/problems
-  ]
-
-- category: Searching
-  links: [
+- name: Searching
+  date: "2021-12-08"
+  link:
     https://open.kattis.com/contests/vu382t/problems
-  ]
 
-- category: Interactive problems
-  links: [
+- name: Interactive problems
+  date: "2021-11-16"
+  link: 
     https://open.kattis.com/contests/rercsx/problems
-  ]
 
-- category: NCPC
-  links: [
-    https://open.kattis.com/contests/seutao/problems, 
+- name: NWERC 2018 remake
+  date: "2021-11-14"
+  link: 
+    https://open.kattis.com/contests/aq2iwc/problems
+
+- name: Dynamic programming
+  date: "2021-11-10"
+  link:
+    https://open.kattis.com/contests/wvn2dn/problems
+
+- name: Segment trees
+  date: "2021-11-03"
+  link:
+    https://open.kattis.com/contests/gay94k/problems
+
+- name: NA Regionals 2020 remake 2/2
+  date: "2021-10-27"
+  link:
+    https://open.kattis.com/contests/pvfm44/problems
+
+- name: NA Regionals 2020 remake 1/2
+  date: "2021-10-13"
+  link:
+    https://open.kattis.com/contests/bywt92/problems
+
+- name: Network flow
+  date: "2021-10-20"
+  link:
+    https://open.kattis.com/contests/yyy5cb/problems
+
+- name: NCPC 2007 remake
+  date: "2021-10-07"
+  link:
+    https://open.kattis.com/contests/bjn3iq/problems  
+
+- name: NCPC 2012 remake
+  date: "2021-10-05"
+  link:
+    https://open.kattis.com/contests/seutao/problems 
+
+- name: NA Div Championships 2021 remake
+  date: "2021-09-29"
+  link:
+    https://open.kattis.com/contests/tv7dur/problems
+
+- name: NCNA 2017 remake
+  date: "2021-09-23"
+  link:
+    https://open.kattis.com/contests/gvnwpy/problems
+
+- name: Rocky Mountain 2020 remake
+  date: "2021-09-15"
+  link:
+    https://open.kattis.com/contests/nuj5hf/problems
+
+- name: Bergen Open 2018 remake
+  date: "2021-09-09"
+  link:
+    https://open.kattis.com/contests/z9d96w/problems
+
+- name: TÖL607G HÍ 2019 remake
+  date: "2021-09-01"
+  link:
+    https://open.kattis.com/contests/esbxev/problems
+
+- name: UBCPC 2020 remake
+  date: "2021-08-25"
+  link:
+    https://open.kattis.com/contests/ggp7wr/problems
+
+- name: TÖL607G 2021 remake
+  date: "2021-08-19"
+  link:
+    https://open.kattis.com/contests/gfcpf6/problems
+
+- name: NCPC 2013 remake
+  date: "2020-11-03"
+  link:
     https://open.kattis.com/contests/yjfiag/problems
-  ]
 
-- category: Variety
-  links: [
-    https://open.kattis.com/contests/pvfc9x/problems, 
-    https://open.kattis.com/contests/aq2iwc/problems, 
-    https://open.kattis.com/contests/pvfm44/problems, 
-    https://open.kattis.com/contests/bywt92/problems, 
-    https://open.kattis.com/contests/bjn3iq/problems,  
-    https://open.kattis.com/contests/tv7dur/problems, 
-    https://open.kattis.com/contests/gvnwpy/problems, 
-    https://open.kattis.com/contests/nuj5hf/problems, 
-    https://open.kattis.com/contests/z9d96w/problems, 
-    https://open.kattis.com/contests/esbxev/problems, 
-    https://open.kattis.com/contests/ggp7wr/problems, 
-    https://open.kattis.com/contests/gfcpf6/problems, 
-    https://open.kattis.com/contests/i2yhpu/problems, 
-    https://open.kattis.com/contests/t24oan/problems, 
+- name: IDI Open 2016 remake
+  date: "2020-10-22"
+  link:
+    https://open.kattis.com/contests/i2yhpu/problems
+
+- name: BAPC 2014 remake
+  date: "2020-10-13"
+  link:
+    https://open.kattis.com/contests/t24oan/problems
+
+- name: New York Regional 2017 remake
+  date: "2020-10-06"
+  link:
     https://open.kattis.com/contests/qp8fwm/problems
-  ]

@@ -6,18 +6,33 @@ id: practice_contests
 
 ## Past practice contests
 
-Here you can find a collection of some of the past practice contests we have held, sorted by the algorithm, technique or general theme they focused on.
+We currently organize weekly practice contest to improve our skills for [NCPC](https://nordic.icpc.io) and beyond. Normally we meet up at Wednesdays at 17:15 in the room E:2116. To find out if there will be a training session this week check out the `#progträningar` channel in our discord.
 
-{% assign sorted_categories = site.data.practice_contests | sort: "category" %}
+This is a list of links to practice contests:
 
-{% for category in sorted_categories %}
+{% assign sorted_contest = site.data.practice_contests | sort: "date" | reverse %}
 
-### {{ category.category }}
-
-<ul>
-    {% for link in category.links %}
-        <li><a href="{{link}}">{{ link }}</a></li>
-    {% endfor %}    
-</ul>
-
+<table id="my-table">
+{% for contest in sorted_contest %}
+<tr>
+<td>
+{{ contest.date }}
+</td>
+<td>
+{{ contest.name }}
+</td>
+<td>
+<a href="{{ contest.link }}">{{contest.link}}</a>
+</td>
+</tr>
 {% endfor %}
+</table>
+
+<style>
+#my-table td {
+    padding: 2px 2px;
+}
+#my-table tr:hover {
+
+}
+</style>
