@@ -1,3 +1,67 @@
+- name: NWERC Warmup 2
+  date: "2022-11-24"
+  link: https://open.kattis.com/contests/hheaia
+
+- name: NWERC Warmup 1
+  date: "2022-11-17"
+  link: https://open.kattis.com/contests/q2jhfw
+
+- name: Trees and LCA
+  date: "2022-11-10"
+  link: https://open.kattis.com/contests/osm8co
+
+- name: Maxflow Mincut
+  date: "2022-11-03"
+  link: https://open.kattis.com/contests/i6ubmu
+
+- name: NWERC 2018 remake
+  date: "2022-10-27"
+  link: https://open.kattis.com/contests/ztz5o5
+
+- name: Fenwick- and segmentträd
+  date: "2022-10-20"
+  link: https://open.kattis.com/contests/isxv7u
+
+- name: NCPC 2017 remake
+  date: "2022-10-13"
+  link: https://open.kattis.com/contests/ocf4b8
+
+- name: NCPC Warmup/ NCPC 2016 remake
+  date: "2022-10-06"
+  link: https://open.kattis.com/contests/w4vugb
+
+- name: NCPC-intro
+  date: "2022-09-29"
+  link: https://open.kattis.com/contests/x9fb4p
+
+- name: Dynamic programing
+  date: "2022-09-15"
+  link: https://open.kattis.com/contests/h9ws5w
+
+- name: BFS and Dijkstra
+  date: "2022-09-08"
+  link: https://open.kattis.com/contests/j4hwad
+
+- name: Code golf
+  date: "2022-06-01"
+  link: https://open.kattis.com/contests/cf48m4
+
+- name: BAPC prelims 2017 remake
+  date: "2022-05-25"
+  link: https://open.kattis.com/contests/cf48m4
+
+- name: Compression
+  date: "2022-05-18"
+  link: https://open.kattis.com/contests/oca7hw
+
+- name: 2-Sat
+  date: "2022-04-27"
+  link: https://open.kattis.com/contests/pozu4b
+
+- name: Topsort
+  date: "2022-04-13"
+  link: https://open.kattis.com/contests/nqjuqd
+
 - name: CodeJam 2021 practice
   date: "2022-03-29"
   link: https://codingcompetitions.withgoogle.com/codejam/archive/2021
