@@ -40,10 +40,13 @@
 
 - name: Benjamin Kugelberg
   role: Board member
+  mail: Benjamin.Kugelberg@gmail.com
   current: true
 
 - name: Gustav Nilsson Gisleskog
   role: Board member
+  github: gustavnilssongisleskog
+  mail: gisleskoggustav@gmail.com
   current: true
 
 
@@ -54,6 +57,9 @@
 
 - name: Jonathan Cederlund
   role: Deputy board member
+  github: Jocen01
+  img:  https://avatars1.githubusercontent.com/u/89202650?s=400&v=4
+  mail: jonathan.cederlund@gmail.com
   current: true
 
 - name: Lucas Boberg
@@ -67,7 +73,7 @@
 - name: Martin Jakobsson
   role: President 2020-2021
   github: Martomate
-  mail: martingitarr@gmail.com 
+  mail: martingitarr@gmail.com
   website: martomate.com
   img: https://avatars1.githubusercontent.com/u/20427996?s=400&v=4
   current: false
