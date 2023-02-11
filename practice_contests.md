@@ -6,7 +6,7 @@ id: practice_contests
 
 ## Past practice contests
 
-We currently organize weekly practice contest to improve our skills for [NCPC](https://nordic.icpc.io) and beyond. Normally we meet up at Thursdays at 17:15 in the room E:2116. To find out if there will be a training session this week check out the `#progträningar` channel in our discord. 
+We currently organize weekly practice contest to improve our skills for [NCPC](https://nordic.icpc.io) and beyond. Normally we meet up at Wednesdays at 17:15 in the room E:2116. To find out if there will be a training session this week check out the `#progträningar` channel in our discord. 
 
 This is a list of links to practice contests:
 
