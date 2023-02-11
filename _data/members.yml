@@ -1,20 +1,11 @@
 # Members
 
 - name: Julius Thunström
-  role: President 2022
+  role: President 2023
   github: aiviaghost
   mail: smurfplatta@gmail.com
   img: https://avatars.githubusercontent.com/u/48349394?v=4
   current: true
-
-- name: Christoffer Fjällborg Rinaldo
-  role: Treasurer 2022
-  github: ChrisTheDevel
-  website: christhedevel.xyz
-  mail: christhedevel@gmail.com
-  img: https://avatars.githubusercontent.com/u/76404374?v=4
-  current: true
-
 
 - name: Måns Magnusson
   role: Board member, Treasurer 2017-2021, Co-founder
@@ -32,35 +23,54 @@
   current: true
 
 - name: Erik Amirell Eklöf
-  role: Board member 2019-2022
+  role: Board member 2019-2023
   github: Eae02
   mail: erik.amirell.eklof@gmail.com
   img: https://avatars0.githubusercontent.com/u/23399946?s=400&v=4
   current: true
 
-- name: Benjamin Kugelberg
-  role: Board member
-  mail: Benjamin.Kugelberg@gmail.com
+- name: Jonathan Cederlund
+  role: Treasurer 2023
+  github: Jocen01
+  img:  https://avatars1.githubusercontent.com/u/89202650?s=400&v=4
+  mail: jonathan.cederlund@gmail.com
   current: true
-
+ 
+ - name: Morteza Rezaei
+  role: Board member
+  github: Pocoya
+  mail: morteza.pokoya@gmail.com
+  current: true
+ 
+ - name: Niklas Sandén
+  role: Board member
+  github: niklassanden
+  mail: sandenniklas@gmail.com
+  current: true
+ 
 - name: Gustav Nilsson Gisleskog
   role: Board member
   github: gustavnilssongisleskog
   mail: gisleskoggustav@gmail.com
   current: true
+ 
+- name: Benjamin Kugelberg
+  role: Board member
+  mail: Benjamin.Kugelberg@gmail.com
+  current: true
 
-
+- name: Christoffer Fjällborg Rinaldo
+  role: Treasurer 2022
+  github: ChrisTheDevel
+  website: christhedevel.xyz
+  mail: christhedevel@gmail.com
+  img: https://avatars.githubusercontent.com/u/76404374?v=4
+  current: false
+  
 - name: Joel Bäcker
   role: Board member 2021-2022
   github: GitThisJoel
-  current: true
-
-- name: Jonathan Cederlund
-  role: Deputy board member
-  github: Jocen01
-  img:  https://avatars1.githubusercontent.com/u/89202650?s=400&v=4
-  mail: jonathan.cederlund@gmail.com
-  current: true
+  current: false
 
 - name: Lucas Boberg
   role: Board member 2021
