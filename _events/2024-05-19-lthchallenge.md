@@ -4,8 +4,12 @@ title: "LTH Challenge 2024"
 place: "E-building"
 timerange: "13:15 - 18:00"
 id: ncpc
-
 ---
+
+<br>
+<b>
+The contest link is [https://lthchallenge24.kattis.com/contests/lthchallenge24](https://lthchallenge24.kattis.com/contests/lthchallenge24).
+</b>
 
 <br />
 LTH Challenge is an annual programming contest aimed at university students. The contest is also a part of the Swedish Coding Cup, a national programming series. After the contest during the solutions presentation, there will be pizza for everyone who completed on site. If you intend to be on-site and want pizza please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSedDixOZ6VTQIVxwmlI52Gvv6q0BcxEZ1VvgWlFYPMce3JE7g/viewform?usp=sf_link) with your allergies and preferences.
@@ -18,12 +22,11 @@ LTH Challenge is an annual programming contest aimed at university students. The
 td, th {padding: 5px;}
 </style>
 
-
-| Time  | Place | |
-|: ---  :|: --- |: --- |
-| 13:15 - 13:45 | TBA | Last minute information |
-| 14:00 - 17:00 | Contest rooms | The contest |
-| 17:00 - 18:00 | TBA | Solution session, Pizza & Prize ceremony |
+|     Time      | Place          |                                          |
+| :-----------: | :------------- | :--------------------------------------- |
+| 13:15 - 13:45 | E:1406         | Last minute information                  |
+| 14:00 - 17:00 | E:1144, E:1145 | The contest                              |
+| 17:00 - 18:00 | E:1406         | Solution session, Pizza & Prize ceremony |
 
 <a name="rules" />
 ### Rules
