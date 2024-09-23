@@ -1,6 +1,6 @@
 ---
 title: NCPC 2024
-redirect_to: "https:codeatlth.org/events/2024-10-05-ncpc/"
+redirect_to: "events/2024-10-05-ncpc/"
 permalink: "/ncpc/"
 ---
 redirect_to: "https:codeatlth.org/events/2024-10-05-ncpc/"
