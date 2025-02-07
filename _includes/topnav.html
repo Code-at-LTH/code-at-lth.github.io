@@ -16,7 +16,7 @@
       <ul class="nav navbar-nav">
         {% for nav in site.data.pages %}
         <li {% if page.id==nav.id %} class="active" {% endif %}>
-          <a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
+          <a href="{{ nav.url }}">{{ nav.name }}</a>
         </li>
         {% endfor %}
       </ul>
