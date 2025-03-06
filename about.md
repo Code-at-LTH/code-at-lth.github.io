@@ -16,7 +16,7 @@ contact us by sending one of us an email (or message us on facebook). That way w
 If you are interested more in detail about how our organisation works, have a look at our documents in our [meta repository](https://github.com/Code-at-LTH/meta).
 There you can find our [by-law](https://en.wikipedia.org/wiki/By-law), operational plan, etc.
 
-## Board members 2023
+## Board members 2025
 <div class="row">
     {% for member in site.data.members %} {% if member.current == true %}
 

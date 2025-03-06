@@ -1,10 +1,17 @@
 # Members
 
 - name: Julius Thunström
-  role: President 2022-2023
+  role: President 2022-2025
   github: aiviaghost
   mail: smurfplatta@gmail.com
   img: https://avatars.githubusercontent.com/u/48349394?v=4
+  current: true
+
+- name: Jonathan Cederlund
+  role: Treasurer 2023-2025
+  github: Jocen01
+  img:  https://avatars1.githubusercontent.com/u/89202650?s=400&v=4
+  mail: jonathan.cederlund@gmail.com
   current: true
 
 - name: Måns Magnusson
@@ -13,27 +20,27 @@
   website: exoji2e.github.io
   mail: exoji2e@protonmail.com
   img: https://avatars0.githubusercontent.com/u/2479779?s=460&v=4
-  current: true
+  current: false
 
 - name: Björn Magnusson
   role: Board member
   github: BjornMagn
   mail: bjorn.in.magnusson@gmail.com
   img: https://avatars3.githubusercontent.com/u/14334856?s=460&v=4
-  current: true
+  current: false
 
 - name: Erik Amirell Eklöf
   role: Board member 2019-2023
   github: Eae02
   mail: erik.amirell.eklof@gmail.com
   img: https://avatars0.githubusercontent.com/u/23399946?s=400&v=4
-  current: true
+  current: false
 
-- name: Jonathan Cederlund
-  role: Treasurer 2023
-  github: Jocen01
-  img:  https://avatars1.githubusercontent.com/u/89202650?s=400&v=4
-  mail: jonathan.cederlund@gmail.com
+- name: David Stålmarck
+  role: Board member
+  github: davidstalmarck
+  mail: david.stalmarck@gmail.com
+  img: /assets/images/2025/david.jpg
   current: true
 
 - name: Morteza Rezaei
@@ -54,10 +61,27 @@
   mail: gisleskoggustav@gmail.com
   current: true
 
-- name: Benjamin Kugelberg
+- name: Hugo Markstad
   role: Board member
-  mail: Benjamin.Kugelberg@gmail.com
+  github: hugomarkstad
+  mail: hugo.markstad@gmail.com
   current: true
+
+- name: Leonard Jarlskog
+  role: Board member
+  github: LelleSwe
+  mail: ljarlskog@gmail.com
+  current: true
+
+- name: Simon Hallefält
+  role: Deputy board member
+  github: SimonHallefelt
+  current: true
+
+- name: Benjamin Kugelberg
+  role: Board member 2022-2024
+  mail: Benjamin.Kugelberg@gmail.com
+  current: false
 
 - name: Christoffer Fjällborg Rinaldo
   role: Treasurer 2022
